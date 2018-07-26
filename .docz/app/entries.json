@@ -1,0 +1,18 @@
+{
+  "Welcome.mdx": {
+    "name": "Welcome",
+    "id": "01CKA8Q4HRZQH66C835GDTKQ9Z",
+    "filepath": "Welcome.mdx",
+    "slug": "welcome",
+    "route": "/welcome",
+    "order": 0,
+    "menu": null,
+    "headings": [
+      {
+        "depth": 1,
+        "slug": "welcome",
+        "value": "Welcome"
+      }
+    ]
+  }
+}
