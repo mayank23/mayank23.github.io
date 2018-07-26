@@ -1,0 +1,13 @@
+{
+  "name": "mayankjethva.xyz",
+  "version": "1.0.0",
+  "scripts": {
+    "docz:dev": "docz dev",
+    "docz:build": "docz build"
+  },
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "docz": "^0.7.1"
+  }
+}
